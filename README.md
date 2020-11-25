@@ -15,7 +15,8 @@
 A mock music store website using handlebars to update price and inventory
 
 ## Screenshots
-![Example screenshot](https://github.com/TarrMarr/musicon/blob/main/screenshot1.JPG)(https://github.com/TarrMarr/musicon/blob/main/screenshot2.JPG)
+![Example screenshot](https://github.com/TarrMarr/musicon/blob/main/screenshot1.JPG)
+![Example screenshot](https://github.com/TarrMarr/musicon/blob/main/screenshot2.JPG)
 
 ## Technologies
 * HTML5
