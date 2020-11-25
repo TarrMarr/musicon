@@ -47,7 +47,7 @@ List of features ready and TODOs for future development
 Project is: _finished_
 
 ## Inspiration
-Created for Codecademy's Full Stack Engineer pathway
+Created for Codecademy's Full Stack Engineer pathway.
 
 ## Contact
 Created by TarrMarr(https://www.tarrynmarr.me) - feel free to contact me!
